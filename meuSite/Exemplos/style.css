@@ -1,0 +1,4 @@
+div{
+	border-radius: 20px black;
+	background-image: -moz-linear-gradient(green 10%, red 20%);
+}
