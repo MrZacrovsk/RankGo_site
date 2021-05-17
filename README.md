@@ -1,2 +1,39 @@
 # RankGo_site
-Criando um site do inicio. Evoluindo com mais conhecimento.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hset</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav id="menu">
+        <ul>
+            <li>
+                <a href="index.html">MENU</a>
+            </li>
+            <li>
+                <a href="projetos/projetos.html">PROJETOS</a>
+            </li>  
+            <li>
+                <a href="sobre/sobre.html">SOBRE</a>
+            </li> 
+            <!-- <li>
+                <a id="fone" href="versãoParaCelulares/index.html">Versão para celular</a>
+            </li>  -->
+            <li style="margin-left: 600px;">
+                <a href="https://github.com/MrZacrovsk" ><img src="imagens/github.png" width="40px" height="40px"></a>
+            </li>    
+            <li style="margin-left: -20px;">
+                <a href="#"><img src="imagens/instagram.png" width="40px" height="40px"></a>
+            </li>  
+            <li style="margin-left: -25px;">
+                <a href="#"><img src="imagens/youtube.png" width="40px" height="40px"></a>
+            </li> 
+                
+        </ul> 
+    </nav> 
+</body>
+</html>
